@@ -1,14 +1,10 @@
 # Code Refactor Starter Code
-# <Your-Project-Title>
+
+# <Creating Accesibility for Horiseon Solutions>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The motivation behind this project was to edit the pre existing code of this site to comply with accesibility standards through the use of features such as alt readers so that this marketing agencys website can be optimized for higher functionality on the web. Through this process I learned the importance of clean code structure, use of semantic elements in HTML and more importanly, how to restructure a pre existing code base to ensure optimal performance within highly rated search engines. 
 
 ## Table of Contents (Optional)
 
