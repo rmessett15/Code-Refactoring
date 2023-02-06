@@ -5,12 +5,12 @@
     margin: 0;
 }
 
-/* Body element-the contents of the page between the header and footer will render with these attributes */
+/* Body element-the contents of the page between the header and footer will render with this specific backgroud color */
 body {
     background-color: #d9dcd6;
 }
 
-/* Class selector-any portion of the page utilizing this class selector will render with these attributes */
+/* Class selector-any portion of the page utilizing this class selector will render with the specified padding, font-family, background-color, and color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Class selector-text will display inline-block with font-size 48px */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Class selector-text will display with the color #d9dcd6 */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Class selector-characteristics used for layout, organization, & design of navigation bar  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,25 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Class selector */
 .header div ul {
     list-style-type: none;
 }
 
+/* Class selector-text will display inline-block with font-size 25px (nav bar) */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* This element will give color to the navigation bar */
+/* This element will give color to the navigation bar (element selector) */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Element Selector-all text within the paragraph elements will have font-size of 16px */
 p {
     font-size: 16px;
 }
 
+/* Class selector-will render the main image on the page below the nav bar with this set of attributes (size, position, margin, height, width, & the chosen image (URL) */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* Class selector-this attribute allows the .jpg to be positioned on the left side of the text-box */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Class selector-this attribute allows the .jpg to be positioned on the right side of the text-box */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Class selector- allows the "section" of the web page to be 75% wide, display inline-block, & have a margin on the left side of 20px */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Class selector-characteristics used for layout, organization, & design of "aside" bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,6 +101,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Class selectors-gives a bottom margin to the text within the "aside" bar, and this text-color */
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -97,6 +109,7 @@ p {
     color: #ffffff;
 }
 
+/* Class selectors-gives a bottom margin to the large "title" text within the "aside" bar, and align the text (center) */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -104,6 +117,7 @@ p {
     text-align: center;
 }
 
+/* Class selectors-displays the images block (stacked), give margin to images of 10px and horizontally center the element within its container (auto) */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -112,6 +126,7 @@ p {
     max-width: 150px;
 }
 
+/* Class selectors-creates a margin on the bottom of container (20px), padding around container (50px), height to container (300px), a font-family with backup font, a background color (#0072bb), & a text color (#ffffff) */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -123,12 +138,14 @@ p {
     color: #ffffff;
 }
 
+/* Class selectors-gives a height attribute to the .jpgs within the "section" of the webpage */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Class selectors-gives a bottom margin to the "title text" within the "section" of the webpage, & a font-size of 36px */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -136,6 +153,7 @@ p {
     font-size: 36px;
 }
 
+/* Class selector-gives padding around container of footer (30px), a font-family (with back-up font), aligns text to the center of the footer container, & makes it so the element is moved down to clear past both left and right floats */
 .footer {
     padding: 30px;
     clear: both;
@@ -143,6 +161,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Class selector-gives the footer a font-size of 20px */
+.footer h4 {
     font-size: 20px;
 }
