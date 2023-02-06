@@ -1,13 +1,16 @@
+/* Universal selector-everything displayed on the page will render with these attributes */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body element-the contents of the page between the header and footer will render with these attributes */
 body {
     background-color: #d9dcd6;
 }
 
+/* Class selector-any portion of the page utilizing this class selector will render with these attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +44,7 @@ body {
     margin-left: 25px;
 }
 
+/* This element will give color to the navigation bar */
 a {
     color: #ffffff;
     text-decoration: none;
