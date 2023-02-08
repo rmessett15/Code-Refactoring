@@ -13,6 +13,11 @@ The motivation behind this project was to edit the pre existing code of this sit
 - [Credits](#credits)
 - [License](#license)
 
+## Live URL
+
+## Screenshot
+
+
 ## Installation
 
 1. Clone the repo
