@@ -18,11 +18,15 @@ The motivation behind this project was to edit the pre existing code of this sit
 1. Clone the repo
     git clone https://github.com/rmessett15/Week-1-challenge.git
 
-2. Open in VS Code
+2. Open in VS Code. If you do not have VS code you must install it.
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
+
+Webpage functions as a space for users to access information, and contact Horiseon Social Solution Services Inc.
+It can be accessed at the URL: ()
+Screenshot-
 
 Provide instructions and examples for use. Include screenshots as needed.
 
@@ -56,9 +60,11 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Features
 
-If your project has a lot of features, list them here.
+Features of this page include a nav bar with links that send you to their corresponding information within the web page.
 
 ## How to Contribute
+
+Open to collaboration, if you choose to do so open an issue and modify any changes you would like to see on a feature branch and wait for approval before merging to the main branch. 
 
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
