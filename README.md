@@ -8,14 +8,17 @@ The motivation behind this project was to edit the pre existing code of this sit
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
 ## Installation
+
+1. Clone the repo
+    git clone https://github.com/rmessett15/Week-1-challenge.git
+
+2. Open in VS Code
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
