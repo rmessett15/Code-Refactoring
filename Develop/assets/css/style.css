@@ -30,7 +30,7 @@ body {
 }
 
 /* Class selector-characteristics used for layout, organization, & design of navigation bar  */
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,12 +39,12 @@ body {
 }
 
 /* Class selector */
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* Class selector-text will display inline-block with font-size 25px (nav bar) */
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
