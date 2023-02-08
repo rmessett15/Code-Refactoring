@@ -49,7 +49,7 @@ body {
     margin-left: 25px;
 }
 
-/* This element will give color to the navigation bar (element selector) */
+/* This element will give color to the navigation bar text-color (element selector) */
 a {
     color: #ffffff;
     text-decoration: none;
